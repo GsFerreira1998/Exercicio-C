@@ -1,6 +1,4 @@
 # Exercicio-C
-
-
 #include <stdlib.h>
 #include <stdio.h>
 #include <locale.h>
@@ -20,5 +18,4 @@ int main()
 	printf("O Valor da area do triangulo retangulo é: %.2f \n", area);
 	system("pause");
 	return 0;
-
 }
