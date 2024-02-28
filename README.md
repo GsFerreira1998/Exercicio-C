@@ -1,4 +1,15 @@
-# Exercicio - Calcule o Valor dos catetos Em C
+Programa de Cálculo da Área de um Triângulo Retângulo
+
+Você foi encarregado de desenvolver um programa em C que calcula a área de um triângulo retângulo, dado os comprimentos dos seus catetos. O programa deve seguir as seguintes etapas:
+
+Solicitar ao usuário que insira o comprimento do primeiro cateto.
+Solicitar ao usuário que insira o comprimento do segundo cateto.
+Calcular a área do triângulo retângulo utilizando a fórmula: área = (cateto1 * cateto2) / 2.
+Exibir o resultado da área calculada com duas casas decimais.
+Para melhorar a apresentação do programa, inclua um cabeçalho indicando sua funcionalidade.
+
+Lembre-se de utilizar a localização adequada para formatação de saída em português.
+
 #include <stdlib.h>
 #include <stdio.h>
 #include <locale.h>
