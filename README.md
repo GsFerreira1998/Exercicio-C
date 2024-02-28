@@ -1,4 +1,4 @@
-# Exercicio-C
+# Exercicio - Calcule o Valor dos catetos Em C
 #include <stdlib.h>
 #include <stdio.h>
 #include <locale.h>
